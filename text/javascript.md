@@ -12,7 +12,7 @@
 
 ### Principles
 
-### Prompt Library
+## Prompt Library
 
 ## License
 
