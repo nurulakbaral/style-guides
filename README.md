@@ -1,3 +1,13 @@
 # Style Guides
 
-Every major project has its own style guide: a set of conventions (sometimes arbitrary) about how to write code for that project. It is much easier to understand a large codebase when all the code in it is in a consistent style.
+Most projects define their own style guide: a set of conventions—sometimes arbitrary—about how code should be written. A consistent style makes it far easier to understand and maintain a large codebase.
+
+“Style” can mean many things, from choosing camelCase for variable names, to avoiding global variables, to steering clear of exceptions. This document outlines the style guidelines I follow in my projects. If you’re contributing or making changes, refer here to see the conventions that apply.
+
+- [JavaScript Style Guide](./text/javascript.md)
+- [TypeScript Style Guide](./text/typescript.md)
+- [React Style Guide](./text/react.md)
+
+# License
+
+MIT License © 2025-Present [Nurul Akbar Al-Ghifari](https://github.com/nurulakbaral)
