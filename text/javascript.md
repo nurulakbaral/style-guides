@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)
   - [Principles](#pointers-to-interfaces)
+- [Linting](#linting)
 - [Prompt Library](#prompt-library)
 - [License](#license)
 
@@ -11,6 +12,8 @@
 ## Guidelines
 
 ### Principles
+
+## Linting
 
 ## Prompt Library
 
