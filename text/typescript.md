@@ -2,7 +2,7 @@
 
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)
-  - [Principles](#pointers-to-interfaces)
+  - [Principles](#principles)
 - [Linting](#linting)
 - [Prompt Library](#prompt-library)
 - [License](#license)

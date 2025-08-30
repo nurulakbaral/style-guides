@@ -4,6 +4,8 @@ Most projects define their own style guide: a set of conventions—sometimes arb
 
 “Style” can mean many things, from choosing camelCase for variable names, to avoiding global variables, to steering clear of exceptions. This document outlines the style guidelines I follow in my projects. If you’re contributing or making changes, refer here to see the conventions that apply.
 
+- [Clean Code](./text/clean-code.md)
+- [SOLID Principles](./text/solid-principles.md)
 - [JavaScript Style Guide](./text/javascript.md)
 - [TypeScript Style Guide](./text/typescript.md)
 - [React Style Guide](./text/react.md)

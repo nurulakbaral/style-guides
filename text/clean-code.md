@@ -1,4 +1,4 @@
-# React Style Guide
+# Clean Code
 
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)

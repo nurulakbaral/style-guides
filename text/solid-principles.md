@@ -1,4 +1,4 @@
-# React Style Guide
+# SOLID Principles
 
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)
