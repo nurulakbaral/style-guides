@@ -1,9 +1,9 @@
-# React Style Guide
+# Prompt Engineering
 
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)
   - [Principles](#principles)
-- [Linting](#linting)
+- [Prompt Library](#prompt-library)
 
 ## Introduction
 
@@ -11,4 +11,4 @@
 
 ### Principles
 
-## Linting
+## Prompt Library

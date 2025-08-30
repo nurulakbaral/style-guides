@@ -9,6 +9,7 @@ Most projects define their own style guide: a set of conventions—sometimes arb
 - [JavaScript Style Guide](./text/javascript.md)
 - [TypeScript Style Guide](./text/typescript.md)
 - [React Style Guide](./text/react.md)
+- [Prompt Engineering](./text/prompt-engineering.md)
 
 # License
 
